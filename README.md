@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08081A,35:2D1B69,70:2D5BE3,100:2FD4F4&height=200&section=header&text=Bayern&fontSize=65&fontColor=E0E8FF&fontAlignY=38&desc=Gustavo%20Bayer%20%7C%20Exploring%20the%20Universe%20of%20Code&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08081A,35:2D1B69,70:2D5BE3,100:2FD4F4&height=200&section=header&text=Kayser&fontSize=65&fontColor=E0E8FF&fontAlignY=38&desc=Gustavo%20Bayer%20%7C%20Exploring%20the%20Universe%20of%20Code&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=2FD4F4&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Gustavo+Bayer+%F0%9F%91%8B;Python+%7C+Artificial+Intelligence+%7C+Machine+Learning;Exploring+LLMs%2C+Data+Science+%26+Technology;Turning+ideas+into+code%2C+one+project+at+a+time." alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Bayern6?style=for-the-badge&logo=github&label=Followers&color=7B4FD4)](https://github.com/Bayern6)
-[![Profile Views](https://komarev.com/ghpvc/?username=Bayern6&style=for-the-badge&color=2D5BE3&label=PROFILE+VIEWS)](https://github.com/Bayern6)
+[![GitHub followers](https://img.shields.io/github/followers/imKayser?style=for-the-badge&logo=github&label=Followers&color=7B4FD4)](https://github.com/imKayser)
+[![Profile Views](https://komarev.com/ghpvc/?username=imKayser&style=for-the-badge&color=2D5BE3&label=PROFILE+VIEWS)](https://github.com/imKayser)
 
 </div>
 
@@ -21,7 +21,7 @@
 class GustavoBayer:
     def __init__(self):
         self.name = "Gustavo Bayer"
-        self.username = "Bayern"
+        self.username = "Kayser"
         self.education = {
             "degree": "Systems Analysis and Development",
             "institution": "UniCesumar",
@@ -46,7 +46,7 @@ class GustavoBayer:
         return "Exploring technology and building the future, one line of code at a time."
 ```
 
-Hey! I'm Gustavo, also known as **Bayern**. 👨‍💻
+Hey! I'm Gustavo, also known as **Kayser**. 👨‍💻
 
 I'm a Systems Analysis and Development graduate from **UniCesumar**, Ponta Grossa - Paraná, Brazil, and currently pursuing a postgraduate degree in **Artificial Intelligence and Machine Learning at PUC Minas**, Belo Horizonte - Minas Gerais, Brazil.
 
@@ -155,7 +155,7 @@ A collection of projects, experiments, and ideas developed throughout my journey
 
 <div align="center">
 
-<a href="https://github.com/Bayern6?tab=repositories">
+<a href="https://github.com/imKayser?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20My%20Repositories-7B4FD4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -167,13 +167,13 @@ A collection of projects, experiments, and ideas developed throughout my journey
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bayern6&show_icons=true&count_private=true&hide_border=true&bg_color=08081A&title_color=7B4FD4&icon_color=2FD4F4&text_color=E0E8FF&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imKayser&show_icons=true&count_private=true&hide_border=true&bg_color=08081A&title_color=7B4FD4&icon_color=2FD4F4&text_color=E0E8FF&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayern6&layout=compact&hide_border=true&bg_color=08081A&title_color=7B4FD4&text_color=E0E8FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKayser&layout=compact&hide_border=true&bg_color=08081A&title_color=7B4FD4&text_color=E0E8FF" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayern6&hide_border=true&background=08081A&ring=7B4FD4&fire=2FD4F4&currStreakLabel=E0E8FF&sideLabels=E0E8FF&currStreakNum=2FD4F4&sideNums=7B4FD4&dates=8A91B8" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=imKayser&hide_border=true&background=08081A&ring=7B4FD4&fire=2FD4F4&currStreakLabel=E0E8FF&sideLabels=E0E8FF&currStreakNum=2FD4F4&sideNums=7B4FD4&dates=8A91B8" />
 
 </div>
 
@@ -200,6 +200,6 @@ Technology is a huge part of my life, but there's always room for other passions
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2FD4F4,40:2D5BE3,75:2D1B69,100:08081A&height=120&section=footer" />
 
-**Bayern** © 2026
+**Kayser** © 2026
 
 </div>
